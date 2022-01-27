@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Smoke Suite">
+	<test name="Smoke">
+	<parameter name="browser" value="Chrome"></parameter>
+		<groups>
+			<run>
+				<include name="Smoke"></include>
+			</run>
+		</groups>
+
+		<classes>
+			<class name="ktctc.ebanking.HomePageTest" />
+			<class name="ktctc.ebanking.LoginPageTest" />
+			<class name="ktctc.ebanking.RegistrationPageTest" />
+			<class name="ktctc.ebanking.DepositPageTest" />
+			<class name="ktctc.ebanking.TransferPageTest" />
+			<class name="ktctc.ebanking.LoanPageTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

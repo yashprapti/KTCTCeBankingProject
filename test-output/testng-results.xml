@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="10" total="20" passed="7" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-26T10:58:49 IST" name="Suite" finished-at="2022-01-26T11:00:59 IST" duration-ms="129678">
+    <groups>
+      <group name="Sanity">
+        <method signature="DepositPageTest.validateDeposit()[pri:0, instance:ktctc.ebanking.DepositPageTest@59af0466]" name="validateDeposit" class="ktctc.ebanking.DepositPageTest"/>
+        <method signature="HomePageTest.validateBalance()[pri:0, instance:ktctc.ebanking.HomePageTest@3a6bb9bf]" name="validateBalance" class="ktctc.ebanking.HomePageTest"/>
+        <method signature="LoginPageTest.loginToHomePageTest(java.lang.String, java.lang.String)[pri:0, instance:ktctc.ebanking.LoginPageTest@34f7cfd9]" name="loginToHomePageTest" class="ktctc.ebanking.LoginPageTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="HomePageTest.validateAccNo()[pri:0, instance:ktctc.ebanking.HomePageTest@3a6bb9bf]" name="validateAccNo" class="ktctc.ebanking.HomePageTest"/>
+        <method signature="LoginPageTest.loginToHomePageTest(java.lang.String, java.lang.String)[pri:0, instance:ktctc.ebanking.LoginPageTest@34f7cfd9]" name="loginToHomePageTest" class="ktctc.ebanking.LoginPageTest"/>
+        <method signature="TransferPageTest.validateBankTransfer()[pri:0, instance:ktctc.ebanking.TransferPageTest@3e6ef8ad]" name="validateBankTransfer" class="ktctc.ebanking.TransferPageTest"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="HomePageTest.validateBalance()[pri:0, instance:ktctc.ebanking.HomePageTest@3a6bb9bf]" name="validateBalance" class="ktctc.ebanking.HomePageTest"/>
+        <method signature="LoanPageTest.verifyCarLoanRequestTest()[pri:0, instance:ktctc.ebanking.LoanPageTest@346d61be]" name="verifyCarLoanRequestTest" class="ktctc.ebanking.LoanPageTest"/>
+        <method signature="LoginPageTest.loginToHomePageTest(java.lang.String, java.lang.String)[pri:0, instance:ktctc.ebanking.LoginPageTest@34f7cfd9]" name="loginToHomePageTest" class="ktctc.ebanking.LoginPageTest"/>
+        <method signature="TransferPageTest.validateBankTransfer()[pri:0, instance:ktctc.ebanking.TransferPageTest@3e6ef8ad]" name="validateBankTransfer" class="ktctc.ebanking.TransferPageTest"/>
+        <method signature="TransferPageTest.validateWithdraw()[pri:0, instance:ktctc.ebanking.TransferPageTest@3e6ef8ad]" name="validateWithdraw" class="ktctc.ebanking.TransferPageTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2022-01-26T10:58:49 IST" name="Test" finished-at="2022-01-26T11:00:59 IST" duration-ms="129678">
+      <class name="ktctc.ebanking.LoanPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:ktctc.ebanking.LoanPageTest@346d61be]" started-at="2022-01-26T11:00:46 IST" name="setup" finished-at="2022-01-26T11:00:52 IST" duration-ms="5761" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCarLoanRequestTest()[pri:0, instance:ktctc.ebanking.LoanPageTest@346d61be]" started-at="2022-01-26T11:00:52 IST" name="verifyCarLoanRequestTest" finished-at="2022-01-26T11:00:58 IST" duration-ms="6290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCarLoanRequestTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ktctc.ebanking.LoanPageTest@346d61be]" started-at="2022-01-26T11:00:58 IST" name="tearDown" finished-at="2022-01-26T11:00:59 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ktctc.ebanking.LoanPageTest -->
+      <class name="ktctc.ebanking.HomePageTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:ktctc.ebanking.HomePageTest@3a6bb9bf]" started-at="2022-01-26T10:58:48 IST" name="beforeSuite" finished-at="2022-01-26T10:58:49 IST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:ktctc.ebanking.HomePageTest@3a6bb9bf]" started-at="2022-01-26T10:58:49 IST" name="setup" finished-at="2022-01-26T10:59:01 IST" duration-ms="12032" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateAccNo()[pri:0, instance:ktctc.ebanking.HomePageTest@3a6bb9bf]" started-at="2022-01-26T10:59:01 IST" name="validateAccNo" finished-at="2022-01-26T10:59:05 IST" duration-ms="3734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAccNo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ktctc.ebanking.HomePageTest@3a6bb9bf]" started-at="2022-01-26T10:59:05 IST" name="tearDown" finished-at="2022-01-26T10:59:05 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:ktctc.ebanking.HomePageTest@3a6bb9bf]" started-at="2022-01-26T10:59:05 IST" name="setup" finished-at="2022-01-26T10:59:10 IST" duration-ms="4663" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateBalance()[pri:0, instance:ktctc.ebanking.HomePageTest@3a6bb9bf]" started-at="2022-01-26T10:59:10 IST" name="validateBalance" finished-at="2022-01-26T10:59:13 IST" duration-ms="3248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBalance -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ktctc.ebanking.HomePageTest@3a6bb9bf]" started-at="2022-01-26T10:59:13 IST" name="tearDown" finished-at="2022-01-26T10:59:13 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:ktctc.ebanking.HomePageTest@3a6bb9bf]" started-at="2022-01-26T11:00:59 IST" name="afterSuite" finished-at="2022-01-26T11:00:59 IST" duration-ms="873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- ktctc.ebanking.HomePageTest -->
+      <class name="ktctc.ebanking.DepositPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:ktctc.ebanking.DepositPageTest@59af0466]" started-at="2022-01-26T11:00:07 IST" name="setup" finished-at="2022-01-26T11:00:11 IST" duration-ms="4341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateDeposit()[pri:0, instance:ktctc.ebanking.DepositPageTest@59af0466]" started-at="2022-01-26T11:00:11 IST" name="validateDeposit" finished-at="2022-01-26T11:00:17 IST" duration-ms="5525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeposit -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ktctc.ebanking.DepositPageTest@59af0466]" started-at="2022-01-26T11:00:17 IST" name="tearDown" finished-at="2022-01-26T11:00:17 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ktctc.ebanking.DepositPageTest -->
+      <class name="ktctc.ebanking.LoginPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:ktctc.ebanking.LoginPageTest@34f7cfd9]" started-at="2022-01-26T10:59:14 IST" name="setup" finished-at="2022-01-26T10:59:19 IST" duration-ms="4586" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginToHomePageTest(java.lang.String, java.lang.String)[pri:0, instance:ktctc.ebanking.LoginPageTest@34f7cfd9]" started-at="2022-01-26T10:59:19 IST" name="loginToHomePageTest" data-provider="credentials" finished-at="2022-01-26T10:59:22 IST" duration-ms="2893" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[octD3.shreyas@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shiru@354]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToHomePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ktctc.ebanking.LoginPageTest@34f7cfd9]" started-at="2022-01-26T10:59:22 IST" name="tearDown" finished-at="2022-01-26T10:59:22 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:ktctc.ebanking.LoginPageTest@34f7cfd9]" started-at="2022-01-26T10:59:22 IST" name="setup" finished-at="2022-01-26T10:59:27 IST" duration-ms="4348" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginToHomePageTest(java.lang.String, java.lang.String)[pri:0, instance:ktctc.ebanking.LoginPageTest@34f7cfd9]" started-at="2022-01-26T10:59:27 IST" name="loginToHomePageTest" data-provider="credentials" finished-at="2022-01-26T10:59:39 IST" duration-ms="12588" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.failNotEquals(Assert.java:969)
+at org.testng.Assert.assertTrue(Assert.java:43)
+at org.testng.Assert.assertTrue(Assert.java:53)
+at ktctc.ebanking.LoginPageTest.loginToHomePageTest(LoginPageTest.java:49)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToHomePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ktctc.ebanking.LoginPageTest@34f7cfd9]" started-at="2022-01-26T10:59:39 IST" name="tearDown" finished-at="2022-01-26T10:59:40 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:ktctc.ebanking.LoginPageTest@34f7cfd9]" started-at="2022-01-26T10:59:40 IST" name="setup" finished-at="2022-01-26T10:59:45 IST" duration-ms="5064" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginToHomePageTest(java.lang.String, java.lang.String)[pri:0, instance:ktctc.ebanking.LoginPageTest@34f7cfd9]" started-at="2022-01-26T10:59:45 IST" name="loginToHomePageTest" data-provider="credentials" finished-at="2022-01-26T10:59:57 IST" duration-ms="12617" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yyz@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pqrs]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.failNotEquals(Assert.java:969)
+at org.testng.Assert.assertTrue(Assert.java:43)
+at org.testng.Assert.assertTrue(Assert.java:53)
+at ktctc.ebanking.LoginPageTest.loginToHomePageTest(LoginPageTest.java:49)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToHomePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ktctc.ebanking.LoginPageTest@34f7cfd9]" started-at="2022-01-26T10:59:58 IST" name="tearDown" finished-at="2022-01-26T10:59:58 IST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ktctc.ebanking.LoginPageTest -->
+      <class name="ktctc.ebanking.TransferPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:ktctc.ebanking.TransferPageTest@3e6ef8ad]" started-at="2022-01-26T11:00:17 IST" name="setup" finished-at="2022-01-26T11:00:22 IST" duration-ms="5044" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateBankTransfer()[pri:0, instance:ktctc.ebanking.TransferPageTest@3e6ef8ad]" started-at="2022-01-26T11:00:22 IST" name="validateBankTransfer" finished-at="2022-01-26T11:00:30 IST" duration-ms="7481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBankTransfer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ktctc.ebanking.TransferPageTest@3e6ef8ad]" started-at="2022-01-26T11:00:30 IST" name="tearDown" finished-at="2022-01-26T11:00:30 IST" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:ktctc.ebanking.TransferPageTest@3e6ef8ad]" started-at="2022-01-26T11:00:30 IST" name="setup" finished-at="2022-01-26T11:00:36 IST" duration-ms="6319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateWithdraw()[pri:0, instance:ktctc.ebanking.TransferPageTest@3e6ef8ad]" started-at="2022-01-26T11:00:36 IST" name="validateWithdraw" finished-at="2022-01-26T11:00:46 IST" duration-ms="9614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateWithdraw -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ktctc.ebanking.TransferPageTest@3e6ef8ad]" started-at="2022-01-26T11:00:46 IST" name="tearDown" finished-at="2022-01-26T11:00:46 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ktctc.ebanking.TransferPageTest -->
+      <class name="ktctc.ebanking.RegistrationPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:ktctc.ebanking.RegistrationPageTest@65f095f8]" started-at="2022-01-26T10:59:58 IST" name="setup" finished-at="2022-01-26T11:00:03 IST" duration-ms="4962" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateRegistrationTest()[pri:0, instance:ktctc.ebanking.RegistrationPageTest@65f095f8]" started-at="2022-01-26T11:00:03 IST" name="validateRegistrationTest" finished-at="2022-01-26T11:00:06 IST" duration-ms="3474" status="FAIL">
+          <exception class="org.openqa.selenium.interactions.MoveTargetOutOfBoundsException">
+            <message>
+              <![CDATA[move target out of bounds
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LIMR78O', ip: '192.168.62.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60997}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6275c70f2a4e4eafa613b6ca1ecbad84]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: move target out of bounds
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LIMR78O', ip: '192.168.62.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60997}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6275c70f2a4e4eafa613b6ca1ecbad84
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.perform(RemoteWebDriver.java:618)
+at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:639)
+at ktctc.ebanking.actiondriver.Action.click(Action.java:48)
+at ktctc.ebanking.pageobject.RegistrationPage.newRegistration(RegistrationPage.java:67)
+at ktctc.ebanking.RegistrationPageTest.validateRegistrationTest(RegistrationPageTest.java:46)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.interactions.MoveTargetOutOfBoundsException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegistrationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ktctc.ebanking.RegistrationPageTest@65f095f8]" started-at="2022-01-26T11:00:07 IST" name="tearDown" finished-at="2022-01-26T11:00:07 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ktctc.ebanking.RegistrationPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

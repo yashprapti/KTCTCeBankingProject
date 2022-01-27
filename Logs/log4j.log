@@ -1,0 +1,556 @@
+2022-01-23 11:49:18 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-23 11:49:18 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-23 11:49:23 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-23 11:49:23 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-23 15:40:47 INFO  Log:11 - =====================================validateAccNo TEST START=========================================
+2022-01-23 15:40:47 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 15:40:50 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 15:40:51 INFO  Log:22 - verifying actaul and expexted strings
+2022-01-23 15:40:51 INFO  Log:22 - actaul and expexted strings are validated sussessfully
+2022-01-23 15:40:51 INFO  Log:15 - =====================================validateAccNo TEST END=========================================
+2022-01-23 15:40:57 INFO  Log:11 - =====================================validateBalance TEST START=========================================
+2022-01-23 15:40:57 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 15:41:00 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 15:48:32 INFO  Log:11 - =====================================verifyCarLoanRequestTest TEST START=========================================
+2022-01-23 15:48:32 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 15:48:35 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 15:48:37 INFO  Log:22 - user entered on loan page sucssesfully
+2022-01-23 15:48:38 INFO  Log:22 - Validating Carloan request
+2022-01-23 15:48:38 INFO  Log:22 - Carloan request validation Successfull
+2022-01-23 15:48:38 INFO  Log:15 - =====================================verifyCarLoanRequestTest TEST END=========================================
+2022-01-23 15:56:14 INFO  Log:11 - =====================================validateDeposit TEST START=========================================
+2022-01-23 15:56:14 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 15:56:17 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 15:56:19 INFO  Log:22 - user entered on Deposit page sucssesfully
+2022-01-23 15:56:20 INFO  Log:22 - Validating Deposit request
+2022-01-23 15:56:20 INFO  Log:22 - Deposit request validation Successfull
+2022-01-23 15:56:20 INFO  Log:15 - =====================================validateDeposit TEST END=========================================
+2022-01-23 16:02:47 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-23 16:02:47 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 16:02:51 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 16:02:53 INFO  Log:22 - user entered on Transfer page sucssesfully
+2022-01-23 16:02:57 INFO  Log:22 - Validating Transfer request
+2022-01-23 16:02:57 INFO  Log:22 - Transfer request validation Successfull
+2022-01-23 16:02:57 INFO  Log:15 - =====================================validateBankTransfer TEST END=========================================
+2022-01-23 16:03:03 INFO  Log:11 - =====================================validateWithdraw TEST START=========================================
+2022-01-23 16:03:03 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 16:03:06 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 16:03:07 INFO  Log:22 - user entered on Withdraw page sucssesfully
+2022-01-23 16:03:13 INFO  Log:22 - Validating Withdraw request
+2022-01-23 16:03:13 INFO  Log:22 - Wthdraw request validation Successfull
+2022-01-23 16:03:13 INFO  Log:15 - =====================================validateWithdraw TEST END=========================================
+2022-01-23 16:05:57 INFO  Log:11 - =====================================validateBalance TEST START=========================================
+2022-01-23 16:05:57 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 16:06:00 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 16:12:48 INFO  Log:11 - =====================================validateBalance TEST START=========================================
+2022-01-23 16:12:48 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 16:12:51 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 16:16:24 INFO  Log:11 - =====================================validateBalance TEST START=========================================
+2022-01-23 16:16:24 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 16:16:28 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 16:16:29 INFO  Log:22 - verifying balance
+2022-01-23 16:16:29 INFO  Log:22 - balance validated sussessfully
+2022-01-23 16:16:29 INFO  Log:15 - =====================================validateBalance TEST END=========================================
+2022-01-23 17:19:01 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 17:19:02 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 17:19:03 INFO  Log:22 - User is on Registraion Page
+2022-01-23 17:19:03 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 17:22:56 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 17:22:56 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 17:22:59 INFO  Log:22 - User is on Registraion Page
+2022-01-23 17:22:59 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 17:26:28 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 17:26:28 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 17:26:30 INFO  Log:22 - User is on Registraion Page
+2022-01-23 17:26:30 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 17:31:39 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 17:31:39 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 17:31:40 INFO  Log:22 - User is on Registraion Page
+2022-01-23 17:31:40 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 18:19:13 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 18:19:13 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 18:19:15 INFO  Log:22 - User is on Registraion Page
+2022-01-23 18:19:15 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 18:20:39 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 18:20:39 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 18:20:40 INFO  Log:22 - User is on Registraion Page
+2022-01-23 18:20:40 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 18:38:59 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 18:39:00 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 18:39:01 INFO  Log:22 - User is on Registraion Page
+2022-01-23 18:39:01 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 18:40:26 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 18:40:26 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 18:40:28 INFO  Log:22 - User is on Registraion Page
+2022-01-23 18:40:28 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 18:42:39 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 18:42:40 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 18:42:40 INFO  Log:22 - User is on Registraion Page
+2022-01-23 18:42:40 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 18:45:40 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 18:45:40 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 18:45:40 INFO  Log:22 - User is on Registraion Page
+2022-01-23 18:45:40 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 18:55:49 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 18:55:49 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 18:55:50 INFO  Log:22 - User is on Registraion Page
+2022-01-23 18:55:50 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 18:57:50 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 18:57:51 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 18:57:52 INFO  Log:22 - User is on Registraion Page
+2022-01-23 18:57:52 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 19:00:08 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 19:00:08 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 19:00:09 INFO  Log:22 - User is on Registraion Page
+2022-01-23 19:00:09 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 19:58:10 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-23 19:58:10 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-23 19:58:14 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-23 19:58:14 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-23 20:01:25 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-23 20:01:25 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-23 20:01:29 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-23 20:01:29 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-23 20:01:38 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-23 20:01:38 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-23 20:01:41 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-23 20:01:51 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-23 20:03:34 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-23 20:03:34 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-23 20:03:39 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-23 20:03:39 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-23 20:07:11 INFO  Log:11 - =====================================validateAccNo TEST START=========================================
+2022-01-23 20:07:11 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 20:07:15 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 20:07:15 INFO  Log:22 - verifying actaul and expexted strings
+2022-01-23 20:07:15 INFO  Log:22 - actaul and expexted strings are validated sussessfully
+2022-01-23 20:07:15 INFO  Log:15 - =====================================validateAccNo TEST END=========================================
+2022-01-23 20:07:21 INFO  Log:11 - =====================================validateBalance TEST START=========================================
+2022-01-23 20:07:21 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 20:07:25 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 20:07:25 INFO  Log:22 - verifying balance
+2022-01-23 20:07:25 INFO  Log:22 - balance validated sussessfully
+2022-01-23 20:07:25 INFO  Log:15 - =====================================validateBalance TEST END=========================================
+2022-01-23 20:07:35 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-23 20:07:35 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-23 20:07:39 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-23 20:07:39 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-23 20:07:49 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-23 20:07:49 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-23 20:07:51 INFO  Log:22 - User is on Registraion Page
+2022-01-23 20:07:51 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-23 20:08:07 INFO  Log:11 - =====================================validateDeposit TEST START=========================================
+2022-01-23 20:08:07 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 20:08:11 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 20:08:14 INFO  Log:22 - user entered on Deposit page sucssesfully
+2022-01-23 20:08:16 INFO  Log:22 - Validating Deposit request
+2022-01-23 20:08:16 INFO  Log:22 - Deposit request validation Successfull
+2022-01-23 20:08:16 INFO  Log:15 - =====================================validateDeposit TEST END=========================================
+2022-01-23 20:08:24 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-23 20:08:24 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 20:08:30 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 20:08:32 INFO  Log:22 - user entered on Transfer page sucssesfully
+2022-01-23 20:08:37 INFO  Log:22 - Validating Transfer request
+2022-01-23 20:08:37 INFO  Log:22 - Transfer request validation Successfull
+2022-01-23 20:08:37 INFO  Log:15 - =====================================validateBankTransfer TEST END=========================================
+2022-01-23 20:08:44 INFO  Log:11 - =====================================validateWithdraw TEST START=========================================
+2022-01-23 20:08:44 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 20:08:48 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 20:08:49 INFO  Log:22 - user entered on Withdraw page sucssesfully
+2022-01-23 20:08:56 INFO  Log:22 - Validating Withdraw request
+2022-01-23 20:08:56 INFO  Log:22 - Wthdraw request validation Successfull
+2022-01-23 20:08:56 INFO  Log:15 - =====================================validateWithdraw TEST END=========================================
+2022-01-23 20:09:04 INFO  Log:11 - =====================================verifyCarLoanRequestTest TEST START=========================================
+2022-01-23 20:09:04 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 20:09:08 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 20:09:10 INFO  Log:22 - user entered on loan page sucssesfully
+2022-01-23 20:09:12 INFO  Log:22 - Validating Carloan request
+2022-01-23 20:09:12 INFO  Log:22 - Carloan request validation Successfull
+2022-01-23 20:09:12 INFO  Log:15 - =====================================verifyCarLoanRequestTest TEST END=========================================
+2022-01-23 20:28:07 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-23 20:28:07 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 21:05:26 INFO  Log:11 - =====================================validateAccNo TEST START=========================================
+2022-01-23 21:05:26 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 21:05:26 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-23 21:05:26 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 21:05:27 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-23 21:05:27 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-23 21:17:34 INFO  Log:11 - =====================================validateAccNo TEST START=========================================
+2022-01-23 21:17:34 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 21:17:38 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 21:17:38 INFO  Log:22 - verifying actaul and expexted strings
+2022-01-23 21:17:38 INFO  Log:22 - actaul and expexted strings are validated sussessfully
+2022-01-23 21:17:38 INFO  Log:15 - =====================================validateAccNo TEST END=========================================
+2022-01-23 21:17:45 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-23 21:17:45 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 21:17:48 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 21:17:50 INFO  Log:22 - user entered on Transfer page sucssesfully
+2022-01-23 21:17:53 INFO  Log:22 - Validating Transfer request
+2022-01-23 21:17:53 INFO  Log:22 - Transfer request validation Successfull
+2022-01-23 21:17:53 INFO  Log:15 - =====================================validateBankTransfer TEST END=========================================
+2022-01-23 21:18:00 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-23 21:18:00 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-23 21:18:04 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-23 21:18:04 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-23 21:18:59 INFO  Log:11 - =====================================validateBalance TEST START=========================================
+2022-01-23 21:18:59 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 21:19:03 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 21:19:03 INFO  Log:22 - verifying balance
+2022-01-23 21:19:03 INFO  Log:22 - balance validated sussessfully
+2022-01-23 21:19:03 INFO  Log:15 - =====================================validateBalance TEST END=========================================
+2022-01-23 21:19:10 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-23 21:19:10 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 21:19:13 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 21:19:14 INFO  Log:22 - user entered on Transfer page sucssesfully
+2022-01-23 21:19:18 INFO  Log:22 - Validating Transfer request
+2022-01-23 21:19:18 INFO  Log:22 - Transfer request validation Successfull
+2022-01-23 21:19:18 INFO  Log:15 - =====================================validateBankTransfer TEST END=========================================
+2022-01-23 21:19:25 INFO  Log:11 - =====================================validateWithdraw TEST START=========================================
+2022-01-23 21:19:25 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 21:19:29 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 21:19:30 INFO  Log:22 - user entered on Withdraw page sucssesfully
+2022-01-23 21:19:36 INFO  Log:22 - Validating Withdraw request
+2022-01-23 21:19:36 INFO  Log:22 - Wthdraw request validation Successfull
+2022-01-23 21:19:36 INFO  Log:15 - =====================================validateWithdraw TEST END=========================================
+2022-01-23 21:19:44 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-23 21:19:44 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-23 21:19:47 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-23 21:19:47 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-23 21:19:55 INFO  Log:11 - =====================================verifyCarLoanRequestTest TEST START=========================================
+2022-01-23 21:19:55 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 21:19:59 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 21:20:00 INFO  Log:22 - user entered on loan page sucssesfully
+2022-01-23 21:20:02 INFO  Log:22 - Validating Carloan request
+2022-01-23 21:20:02 INFO  Log:22 - Carloan request validation Successfull
+2022-01-23 21:20:02 INFO  Log:15 - =====================================verifyCarLoanRequestTest TEST END=========================================
+2022-01-23 21:20:45 INFO  Log:11 - =====================================validateBalance TEST START=========================================
+2022-01-23 21:20:45 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 21:20:49 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 21:20:49 INFO  Log:22 - verifying balance
+2022-01-23 21:20:49 INFO  Log:22 - balance validated sussessfully
+2022-01-23 21:20:49 INFO  Log:15 - =====================================validateBalance TEST END=========================================
+2022-01-23 21:20:54 INFO  Log:11 - =====================================validateDeposit TEST START=========================================
+2022-01-23 21:20:54 INFO  Log:22 - user is trying to enter username and password
+2022-01-23 21:20:57 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-23 21:20:59 INFO  Log:22 - user entered on Deposit page sucssesfully
+2022-01-23 21:21:01 INFO  Log:22 - Validating Deposit request
+2022-01-23 21:21:01 INFO  Log:22 - Deposit request validation Successfull
+2022-01-23 21:21:01 INFO  Log:15 - =====================================validateDeposit TEST END=========================================
+2022-01-23 21:21:08 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-23 21:21:08 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-23 21:21:12 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-23 21:21:12 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-24 19:11:09 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-24 19:11:09 INFO  Log:22 - user is trying to enter username and password
+2022-01-24 19:11:13 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-24 19:11:15 INFO  Log:22 - user entered on Transfer page sucssesfully
+2022-01-24 19:11:19 INFO  Log:22 - Validating Transfer request
+2022-01-24 19:11:19 INFO  Log:22 - Transfer request validation Successfull
+2022-01-24 19:11:19 INFO  Log:15 - =====================================validateBankTransfer TEST END=========================================
+2022-01-24 19:11:24 INFO  Log:11 - =====================================validateWithdraw TEST START=========================================
+2022-01-24 19:11:24 INFO  Log:22 - user is trying to enter username and password
+2022-01-24 19:11:27 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-24 19:11:29 INFO  Log:22 - user entered on Withdraw page sucssesfully
+2022-01-24 19:11:36 INFO  Log:22 - Validating Withdraw request
+2022-01-24 19:11:36 INFO  Log:22 - Wthdraw request validation Successfull
+2022-01-24 19:11:36 INFO  Log:15 - =====================================validateWithdraw TEST END=========================================
+2022-01-24 19:11:48 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-24 19:11:48 INFO  Log:22 - user is trying to enter username and password
+2022-01-24 19:11:49 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-24 19:12:05 INFO  Log:11 - =====================================validateWithdraw TEST START=========================================
+2022-01-24 19:12:05 INFO  Log:22 - user is trying to enter username and password
+2022-01-24 19:12:06 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-24 19:13:24 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-24 19:13:24 INFO  Log:22 - user is trying to enter username and password
+2022-01-24 19:13:27 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-24 19:13:29 INFO  Log:22 - user entered on Transfer page sucssesfully
+2022-01-24 19:13:33 INFO  Log:22 - Validating Transfer request
+2022-01-24 19:13:33 INFO  Log:22 - Transfer request validation Successfull
+2022-01-24 19:13:33 INFO  Log:15 - =====================================validateBankTransfer TEST END=========================================
+2022-01-24 19:13:37 INFO  Log:11 - =====================================validateWithdraw TEST START=========================================
+2022-01-24 19:13:37 INFO  Log:22 - user is trying to enter username and password
+2022-01-24 19:13:40 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-24 19:13:42 INFO  Log:22 - user entered on Withdraw page sucssesfully
+2022-01-24 19:13:47 INFO  Log:22 - Validating Withdraw request
+2022-01-24 19:13:47 INFO  Log:22 - Wthdraw request validation Successfull
+2022-01-24 19:13:47 INFO  Log:15 - =====================================validateWithdraw TEST END=========================================
+2022-01-24 19:13:59 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-24 19:13:59 INFO  Log:22 - user is trying to enter username and password
+2022-01-24 19:14:00 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-24 19:14:15 INFO  Log:11 - =====================================validateWithdraw TEST START=========================================
+2022-01-24 19:14:15 INFO  Log:22 - user is trying to enter username and password
+2022-01-24 19:14:16 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-24 19:19:53 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-24 19:19:53 INFO  Log:22 - user is trying to enter username and password
+2022-01-24 19:19:56 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-24 19:19:58 INFO  Log:22 - user entered on Transfer page sucssesfully
+2022-01-24 19:20:01 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-24 19:20:01 INFO  Log:22 - user is trying to enter username and password
+2022-01-24 19:20:02 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-24 19:20:02 INFO  Log:22 - Validating Transfer request
+2022-01-24 19:20:02 INFO  Log:22 - Transfer request validation Successfull
+2022-01-24 19:20:02 INFO  Log:15 - =====================================validateBankTransfer TEST END=========================================
+2022-01-24 19:20:09 INFO  Log:11 - =====================================validateWithdraw TEST START=========================================
+2022-01-24 19:20:09 INFO  Log:22 - user is trying to enter username and password
+2022-01-24 19:20:13 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-24 19:20:15 INFO  Log:22 - user entered on Withdraw page sucssesfully
+2022-01-24 19:20:19 INFO  Log:11 - =====================================validateWithdraw TEST START=========================================
+2022-01-24 19:20:19 INFO  Log:22 - user is trying to enter username and password
+2022-01-24 19:20:19 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-24 19:20:21 INFO  Log:22 - Validating Withdraw request
+2022-01-24 19:20:21 INFO  Log:22 - Wthdraw request validation Successfull
+2022-01-24 19:20:21 INFO  Log:15 - =====================================validateWithdraw TEST END=========================================
+2022-01-25 11:28:39 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-25 11:28:39 INFO  Log:22 - user is trying to enter username and password
+2022-01-25 11:28:42 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-25 11:28:43 INFO  Log:22 - user entered on Transfer page sucssesfully
+2022-01-25 11:28:46 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-25 11:28:46 INFO  Log:22 - user is trying to enter username and password
+2022-01-25 11:28:47 INFO  Log:22 - Validating Transfer request
+2022-01-25 11:28:47 INFO  Log:22 - Transfer request validation Successfull
+2022-01-25 11:28:47 INFO  Log:15 - =====================================validateBankTransfer TEST END=========================================
+2022-01-25 11:28:47 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-25 11:28:53 INFO  Log:11 - =====================================validateWithdraw TEST START=========================================
+2022-01-25 11:28:53 INFO  Log:22 - user is trying to enter username and password
+2022-01-25 11:28:57 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-25 11:28:58 INFO  Log:22 - user entered on Withdraw page sucssesfully
+2022-01-25 11:29:04 INFO  Log:11 - =====================================validateWithdraw TEST START=========================================
+2022-01-25 11:29:04 INFO  Log:22 - user is trying to enter username and password
+2022-01-25 11:29:05 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-25 11:29:05 INFO  Log:22 - Validating Withdraw request
+2022-01-25 11:29:05 INFO  Log:22 - Wthdraw request validation Successfull
+2022-01-25 11:29:05 INFO  Log:15 - =====================================validateWithdraw TEST END=========================================
+2022-01-25 11:39:14 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-25 11:39:14 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-25 11:39:18 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-25 11:39:18 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-25 11:41:38 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-25 11:41:38 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-25 11:41:40 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-25 11:41:41 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-25 11:41:45 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-25 11:41:45 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-25 11:41:48 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-25 11:41:58 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-25 11:42:03 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-25 11:42:03 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-25 11:42:05 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-25 11:42:15 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-26 10:24:21 INFO  Log:11 - =====================================validateAccNo TEST START=========================================
+2022-01-26 10:24:21 INFO  Log:22 - user is trying to enter username and password
+2022-01-26 10:24:26 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-26 10:24:26 INFO  Log:22 - verifying actaul and expexted strings
+2022-01-26 10:24:26 INFO  Log:22 - actaul and expexted strings are validated sussessfully
+2022-01-26 10:24:26 INFO  Log:15 - =====================================validateAccNo TEST END=========================================
+2022-01-26 10:24:31 INFO  Log:11 - =====================================validateBalance TEST START=========================================
+2022-01-26 10:24:31 INFO  Log:22 - user is trying to enter username and password
+2022-01-26 10:24:34 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-26 10:24:35 INFO  Log:22 - verifying balance
+2022-01-26 10:24:35 INFO  Log:22 - balance validated sussessfully
+2022-01-26 10:24:35 INFO  Log:15 - =====================================validateBalance TEST END=========================================
+2022-01-26 10:24:42 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-26 10:24:42 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-26 10:24:45 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-26 10:24:45 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-26 10:24:50 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-26 10:24:50 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-26 10:24:52 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-26 10:25:02 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-26 10:25:07 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-26 10:25:07 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-26 10:25:09 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-26 10:25:19 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-26 10:25:25 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-26 10:25:25 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-26 10:25:26 INFO  Log:22 - User is on Registraion Page
+2022-01-26 10:25:26 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-26 10:25:33 INFO  Log:11 - =====================================validateDeposit TEST START=========================================
+2022-01-26 10:25:33 INFO  Log:22 - user is trying to enter username and password
+2022-01-26 10:25:36 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-26 10:25:37 INFO  Log:22 - user entered on Deposit page sucssesfully
+2022-01-26 10:25:39 INFO  Log:22 - Validating Deposit request
+2022-01-26 10:25:39 INFO  Log:22 - Deposit request validation Successfull
+2022-01-26 10:25:39 INFO  Log:15 - =====================================validateDeposit TEST END=========================================
+2022-01-26 10:25:44 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-26 10:25:44 INFO  Log:22 - user is trying to enter username and password
+2022-01-26 10:25:47 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-26 10:25:48 INFO  Log:22 - user entered on Transfer page sucssesfully
+2022-01-26 10:25:52 INFO  Log:22 - Validating Transfer request
+2022-01-26 10:25:52 INFO  Log:22 - Transfer request validation Successfull
+2022-01-26 10:25:52 INFO  Log:15 - =====================================validateBankTransfer TEST END=========================================
+2022-01-26 10:26:04 INFO  Log:11 - =====================================validateWithdraw TEST START=========================================
+2022-01-26 10:26:04 INFO  Log:22 - user is trying to enter username and password
+2022-01-26 10:26:07 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-26 10:26:09 INFO  Log:22 - user entered on Withdraw page sucssesfully
+2022-01-26 10:26:15 INFO  Log:22 - Validating Withdraw request
+2022-01-26 10:26:15 INFO  Log:22 - Wthdraw request validation Successfull
+2022-01-26 10:26:15 INFO  Log:15 - =====================================validateWithdraw TEST END=========================================
+2022-01-26 10:26:20 INFO  Log:11 - =====================================verifyCarLoanRequestTest TEST START=========================================
+2022-01-26 10:26:20 INFO  Log:22 - user is trying to enter username and password
+2022-01-26 10:26:23 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-26 10:26:24 INFO  Log:22 - user entered on loan page sucssesfully
+2022-01-26 10:26:26 INFO  Log:22 - Validating Carloan request
+2022-01-26 10:26:26 INFO  Log:22 - Carloan request validation Successfull
+2022-01-26 10:26:26 INFO  Log:15 - =====================================verifyCarLoanRequestTest TEST END=========================================
+2022-01-26 10:26:26 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 10:26:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2022-01-26 10:26:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2022-01-26 10:26:26 DEBUG cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2022-01-26 10:26:27 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2022-01-26 10:26:27 DEBUG cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2022-01-26 10:26:27 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2022-01-26 10:26:27 DEBUG cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2022-01-26 10:26:27 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2022-01-26 10:26:27 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2022-01-26 10:26:27 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2022-01-26 10:26:27 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2022-01-26 10:26:27 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2022-01-26 10:26:27 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2022-01-26 10:26:27 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 10:26:27 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 10:26:27 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 10:26:27 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 10:26:27 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 10:26:27 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 10:26:27 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 10:26:27 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 10:26:27 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 10:26:27 DEBUG cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2022-01-26 10:26:27 DEBUG cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2022-01-26 10:26:27 DEBUG cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2022-01-26 10:26:27 DEBUG cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2022-01-26 10:26:27 DEBUG cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2022-01-26 10:26:27 DEBUG cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2022-01-26 10:26:27 DEBUG cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2022-01-26 10:26:27 DEBUG cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2022-01-26 10:26:27 DEBUG cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2022-01-26 10:26:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2022-01-26 10:26:27 DEBUG cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2022-01-26 10:59:01 INFO  Log:11 - =====================================validateAccNo TEST START=========================================
+2022-01-26 10:59:01 INFO  Log:22 - user is trying to enter username and password
+2022-01-26 10:59:05 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-26 10:59:05 INFO  Log:22 - verifying actaul and expexted strings
+2022-01-26 10:59:05 INFO  Log:22 - actaul and expexted strings are validated sussessfully
+2022-01-26 10:59:05 INFO  Log:15 - =====================================validateAccNo TEST END=========================================
+2022-01-26 10:59:10 INFO  Log:11 - =====================================validateBalance TEST START=========================================
+2022-01-26 10:59:10 INFO  Log:22 - user is trying to enter username and password
+2022-01-26 10:59:13 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-26 10:59:13 INFO  Log:22 - verifying balance
+2022-01-26 10:59:13 INFO  Log:22 - balance validated sussessfully
+2022-01-26 10:59:13 INFO  Log:15 - =====================================validateBalance TEST END=========================================
+2022-01-26 10:59:19 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-26 10:59:19 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-26 10:59:22 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-26 10:59:22 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-26 10:59:27 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-26 10:59:27 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-26 10:59:29 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-26 10:59:39 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-26 10:59:45 INFO  Log:11 - =====================================loginToHomePageTest TEST START=========================================
+2022-01-26 10:59:45 INFO  Log:22 - User Is Going to Enter Username and Password
+2022-01-26 10:59:47 INFO  Log:22 - Username and Password is Entered Successfully
+2022-01-26 10:59:57 INFO  Log:22 - Verifying user is able to login to home page
+2022-01-26 11:00:03 INFO  Log:11 - =====================================validateRegistrationTest TEST START=========================================
+2022-01-26 11:00:03 INFO  Log:22 - User is navigating to Registraion Page
+2022-01-26 11:00:05 INFO  Log:22 - User is on Registraion Page
+2022-01-26 11:00:05 INFO  Log:22 - User is Entering Details in Registraion Form
+2022-01-26 11:00:11 INFO  Log:11 - =====================================validateDeposit TEST START=========================================
+2022-01-26 11:00:11 INFO  Log:22 - user is trying to enter username and password
+2022-01-26 11:00:14 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-26 11:00:15 INFO  Log:22 - user entered on Deposit page sucssesfully
+2022-01-26 11:00:17 INFO  Log:22 - Validating Deposit request
+2022-01-26 11:00:17 INFO  Log:22 - Deposit request validation Successfull
+2022-01-26 11:00:17 INFO  Log:15 - =====================================validateDeposit TEST END=========================================
+2022-01-26 11:00:22 INFO  Log:11 - =====================================validateBankTransfer TEST START=========================================
+2022-01-26 11:00:22 INFO  Log:22 - user is trying to enter username and password
+2022-01-26 11:00:25 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-26 11:00:26 INFO  Log:22 - user entered on Transfer page sucssesfully
+2022-01-26 11:00:30 INFO  Log:22 - Validating Transfer request
+2022-01-26 11:00:30 INFO  Log:22 - Transfer request validation Successfull
+2022-01-26 11:00:30 INFO  Log:15 - =====================================validateBankTransfer TEST END=========================================
+2022-01-26 11:00:36 INFO  Log:11 - =====================================validateWithdraw TEST START=========================================
+2022-01-26 11:00:36 INFO  Log:22 - user is trying to enter username and password
+2022-01-26 11:00:39 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-26 11:00:40 INFO  Log:22 - user entered on Withdraw page sucssesfully
+2022-01-26 11:00:46 INFO  Log:22 - Validating Withdraw request
+2022-01-26 11:00:46 INFO  Log:22 - Wthdraw request validation Successfull
+2022-01-26 11:00:46 INFO  Log:15 - =====================================validateWithdraw TEST END=========================================
+2022-01-26 11:00:52 INFO  Log:11 - =====================================verifyCarLoanRequestTest TEST START=========================================
+2022-01-26 11:00:52 INFO  Log:22 - user is trying to enter username and password
+2022-01-26 11:00:55 INFO  Log:22 - user entered username and password sucssesfully
+2022-01-26 11:00:57 INFO  Log:22 - user entered on loan page sucssesfully
+2022-01-26 11:00:58 INFO  Log:22 - Validating Carloan request
+2022-01-26 11:00:58 INFO  Log:22 - Carloan request validation Successfull
+2022-01-26 11:00:58 INFO  Log:15 - =====================================verifyCarLoanRequestTest TEST END=========================================
+2022-01-26 11:00:59 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2022-01-26 11:00:59 DEBUG cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2022-01-26 11:00:59 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2022-01-26 11:00:59 DEBUG cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2022-01-26 11:00:59 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2022-01-26 11:00:59 DEBUG cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2022-01-26 11:00:59 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2022-01-26 11:00:59 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2022-01-26 11:00:59 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2022-01-26 11:00:59 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2022-01-26 11:00:59 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2022-01-26 11:00:59 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2022-01-26 11:00:59 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 11:00:59 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 11:00:59 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 11:00:59 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 11:00:59 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 11:00:59 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 11:00:59 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 11:00:59 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 11:00:59 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-01-26 11:00:59 DEBUG cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2022-01-26 11:00:59 DEBUG cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2022-01-26 11:00:59 DEBUG cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2022-01-26 11:00:59 DEBUG cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2022-01-26 11:00:59 DEBUG cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2022-01-26 11:00:59 DEBUG cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2022-01-26 11:00:59 DEBUG cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2022-01-26 11:00:59 DEBUG cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2022-01-26 11:00:59 DEBUG cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2022-01-26 11:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2022-01-26 11:00:59 DEBUG cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
